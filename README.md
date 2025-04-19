@@ -26,7 +26,6 @@ This project demonstrates how to apply a **Transformer-based model** in a **fede
 ## 🚀 Getting Started
 ```bash
 pip install -r requirements.txt
-python src/start_federated_simulation.py
 ```
 
 ## 📊 Output
